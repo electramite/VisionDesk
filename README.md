@@ -49,10 +49,4 @@ After complition you need to screenrecord and demonstrate the complete working G
 2. Prepare a **README** and explain your code working.
 3. Put recorded video in drive and attach the link to **README** itself.
 
-## 📹 Demo Video
-
-> 🔗 *Embed your demo video here using GitHub-compatible video hosting*  
-GitHub doesn’t support direct video uploads, so you can:
-- Upload your video to YouTube or Google Drive
-- Add the link here:
 
