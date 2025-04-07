@@ -48,4 +48,5 @@ After complition you need to screenrecord and demonstrate the complete working G
 1. Create a repo and upload compelete code.
 2. Prepare a **README** and explain your code working.
 3. Put recorded video in drive and attach the link to **README** itself.
+
 Do same as assignment 1, mail repo link at `electramite@gmail.com`
